@@ -1,7 +1,5 @@
 # Blog_app
 
-# Blog App
-
 A full-stack blogging application built with Node.js, Express, PostgreSQL for the backend and Next.js for the frontend.
 
 ## 📋 Table of Contents
